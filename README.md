@@ -1,4 +1,4 @@
-# 👕 Insight BI – T-Shirt Company Analysis
+# 👕 Insigh BI – T-Shirt Company Analysis
 
 ## 📌 Project Overview
 
