@@ -67,6 +67,15 @@ This visualization shows the **Top 5 brands based on Average Profit Percentage**
 
 This visualization compares the **Top 5 brands based on Average Sales Price**.
 
+## 🖥️ Dashboard Preview
+
+### 🏠 HomePage
+
+![HomePage](images/HomePage.png)
+
+### 📈 DetailsPage
+
+![DetailsPage](images/DetailsPage.png)
 ---
 
 ## 🔍 Key Skills Demonstrated
